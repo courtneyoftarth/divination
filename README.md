@@ -11,7 +11,7 @@ For meeting + assignment details see:
 * Week 2: [More CSS](schedule/week2.md)
 * Week 3: [Javascript - DOM, Variables, Loops](schedule/week3.md)
 * Week 4: [Javascript - Events](schedule/week4.md)
-* Week 5: [Javascript - Dynamic Content](schedule/week5.md)
+* Week 5: [Javascript - Dynamic Content](schedule/week5.md) \
 Later: unit tests, deploy, React, web service
 
 ## Useful Links

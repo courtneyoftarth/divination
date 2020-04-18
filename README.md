@@ -7,12 +7,12 @@ Courtney and Drake's website about the magic world of Harry Potter.
 * Finish assignment by Saturday at 5pm
 
 For meeting + assignment details see:
-Week 1: [HTML, CSS, Git](schedule/week1.md)
-Week 2: [More CSS](schedule/week2.md)
-Week 3: [Javascript - DOM, Variables, Loops](schedule/week3.md)
-Week 4: [Javascript - Events](schedule/week4.md)
-Week 5: [Javascript - Dynamic Content](schedule/week5.md)
+* Week 1: [HTML, CSS, Git](schedule/week1.md)
+* Week 2: [More CSS](schedule/week2.md)
+* Week 3: [Javascript - DOM, Variables, Loops](schedule/week3.md)
+* Week 4: [Javascript - Events](schedule/week4.md)
+* Week 5: [Javascript - Dynamic Content](schedule/week5.md)
 
 ## Useful Links
-[Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-[Codepen](https://codepen.io/) lets you test out code without setting everything up. [Example](https://codepen.io/courtneyoftarth/pen/YzyWeEr)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [Codepen](https://codepen.io/) lets you test out code without setting everything up. [Example](https://codepen.io/courtneyoftarth/pen/YzyWeEr)

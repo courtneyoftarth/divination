@@ -12,6 +12,7 @@ For meeting + assignment details see:
 * Week 3: [Javascript - DOM, Variables, Loops](schedule/week3.md)
 * Week 4: [Javascript - Events](schedule/week4.md)
 * Week 5: [Javascript - Dynamic Content](schedule/week5.md)
+Later: unit tests, deploy, React, web service
 
 ## Useful Links
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)

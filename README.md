@@ -1,5 +1,5 @@
 # DIV-ination Coding Club
-Courtney and Drake's website about the magic world of Harry Potter.
+Courtney and Drake's website about the magical wizarding world. 🏰🧹🦉
 
 ## Schedule
 * Watch tutorial before meeting

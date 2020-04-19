@@ -17,4 +17,6 @@ Later: unit tests, deploy, React, web service
 
 ## Useful Links
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-* [Codepen](https://codepen.io/) lets you test out code without setting everything up. [Example](https://codepen.io/courtneyoftarth/pen/YzyWeEr)
+* [Codepen](https://codepen.io/) lets you test out code without setting everything up. [Example]
+* [CSS Color Names](http://www.colors.commutercreative.com/grid/)
+(https://codepen.io/courtneyoftarth/pen/YzyWeEr)

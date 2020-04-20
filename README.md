@@ -7,11 +7,10 @@ Courtney and Drake's website about the magical wizarding world. 🏰🧹🦉
 * Finish assignment by Saturday at 5pm
 
 For meeting + assignment details see:
-* Week 1: [HTML, CSS, Git](schedule/week1.md)
-* Week 2: [More CSS](schedule/week2.md)
-* Week 3: [Javascript - DOM, Variables, Loops](schedule/week3.md)
-* Week 4: [Javascript - Events](schedule/week4.md)
-* Week 5: [Javascript - Dynamic Content](schedule/week5.md)
+* Week 1: [HTML, CSS, Git](week1/README.md)
+* Week 2: [More CSS](week2/README.md)
+* Week 3: [Javascript - DOM, Variables, Loops](week3/README.md)
+* Week 4: [Javascript - Events](week4/README.md)
 
 Later: unit tests, deploy, React, web service
 
